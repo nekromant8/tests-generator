@@ -7,7 +7,7 @@ An AI-powered test case generator that helps QA professionals create comprehensi
 ## 🌟 Features
 
 - 🤖 Multiple AI Provider Support
-  - OpenAI (GPT-4, GPT-3.5)
+  - OpenAI (GPT-4, GPT-3.5) (not tested)
   - Groq
   - Ollama (Local AI)
 - 📝 Test Case Generation
@@ -16,7 +16,7 @@ An AI-powered test case generator that helps QA professionals create comprehensi
   - Bulk generation support
 - 🔄 Export Options
   - Pytest format
-  - Jira integration
+  - Jira integration (not tested)
   - Python file export
 - 🎨 User Interface
   - Dark/Light mode
